@@ -1,0 +1,149 @@
+<html><head>
+    <base href="/bobo/">
+    <title></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="stylesheet" type="text/css" href="css/frozen.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/style.css" media="all">
+<link rel="stylesheet" type="text/css" href="css/iconfont.css?=4444" media="all">
+
+<script src="js/zepto.min.js?s=111"></script>
+<script src="js/frozen.js"></script>
+<script src="js/vue.min.js"></script>
+<script src="js/haitun/common3.js"></script>
+
+<style>
+    .ui-slider-indicators li{
+        background-color: #e0d11d;
+    }
+    .xin000 {
+        position: absolute;
+        z-index: 20;
+        left:14%;
+        bottom: 45px;
+    }
+</style></head>
+
+<body>
+
+<header id="header" class="ui-header ui-header-positive ui-border-b">
+    <h1>播播  -  移动平台的成人视频内容</h1>
+</header>
+
+
+
+<div id="container"></div>
+<script src="js/sysnotice.js"></script>
+ <style type="text/css">
+    .commentwap {
+        width:2.5rem;
+        border-radius:10%;
+        margin: 0 auto;
+    }
+    .commenttext {
+        float:left;width:48px;height:48px;margin-right:20px;
+    }
+    .sendout {
+        border-radius: 10px;
+        height: 1.5rem;
+        background-color: #f90;
+        color: #fff;
+        font-size: 0.7rem;
+        padding: 0 0.8rem;
+        padding: 0 0.8rem;
+        width: 24%;
+
+    }
+    .cpBanner {
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: relative;
+        width: 100%;
+        height: 10rem;
+        margin-bottom: 0.5rem;;
+    }
+    @media (orientation: landscape) {
+        .commenttext {
+            width: 81%;
+        }
+        .sendout {
+            width: 15%;
+        }
+
+    }</style>
+ <script>
+    $(function () {
+        var vod_id = $("#vod_id").val();
+        var cm_id = "comment"+vod_id;
+        var cm_str = gc(cm_id);
+        $("#commentList h2").after(cm_str);
+
+
+        Player = document.getElementById("player");
+        Player.onended = function () {
+
+        };
+
+
+    });
+    //评论
+    function comment() {
+        window.location.href = '/bobo/bobo.apk';
+    }
+ </script>
+ <div class="container">
+
+     <div id="commentList">
+         <h2></h2>
+         <div class="comment">
+             <div class="avatar"><img src="/bobo/img/app_icon.png"></div>
+             <div class="commentCnt">
+                 <div class="username">播播&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span onclick="comment()"><button class="sendout" onclick="comment()">安装</button></span></div>
+                 <div class="usermsg">移动平台的成人视频内容(安卓版)</div>
+
+             </div>
+
+         </div>
+         <h5></h5>
+
+     </div>
+
+     <div id="hotVideo"><h2><span>&nbsp;</span>应用截图</h2>
+         <ul class="ui-grid-trisect">
+             <li>
+                 <div class="ui-grid-trisect-img cover"><span style="background-image: url(/bobo/img/app_1.png);"></span></div>
+                 <h4 class="ui-nowrap"><a href="#">国产</a></h4></li><li>
+             <div  class="ui-grid-trisect-img cover"><span style="background-image: url(/bobo/img/app_2.png);"></span></div>
+             <h4 class="ui-nowrap"><a href="#">欧美</a></h4></li><li>
+             <div  class="ui-grid-trisect-img cover"><span style="background-image: url(/bobo/img/app_3.png);"></span></div>
+             <h4 class="ui-nowrap"><a href="#">日韩</a></h4></li>
+         </ul>
+     </div>
+
+     <div id="commentList">
+         <h2><span></span>视频赏析</h2>
+     </div>
+
+    <div id="playerwrap" style="width: 100%; height: 214.669px; z-index:99;">
+        <video preload="auto" id="player" controls="false" poster="/bobo/mp4/20s_3.jpg" style="width:100%;height:100%;z-index: -1;">
+            <source src="/bobo/mp4/20s_3.mp4" type="video/mp4">
+        </video>
+    </div>
+
+</div>
+
+<div class="cpBanner" style="background-image: url('/bobo/img/buy_201606281349111283.gif')">
+    <div class="cptitle">
+        <div class="cplinkleft"></div>
+        <div class="cplinkright"></div>
+        <span class="cpperson">
+            <button class="cpbut"></button>
+        </span>
+    </div>
+</div>
+
+<div style="text-align: center; font-size: 16px;;color: red" class="topay paytip" onclick="comment()">更多精彩内容请安装播播APP&gt;&gt;</div>
+
+
+</body></html>
