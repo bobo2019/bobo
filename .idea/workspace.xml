@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4eb1131b-1dbb-4cff-8e7d-b9fba362119b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bobo.html" afterPath="$PROJECT_DIR$/bobo.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="BoboAdvse.iws" />
@@ -26,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="133" column="15" selection-start-line="133" selection-start-column="15" selection-end-line="133" selection-end-column="15" />
+            <state relative-caret-position="220">
+              <caret line="126" column="48" selection-start-line="126" selection-start-column="48" selection-end-line="126" selection-end-column="48" />
               <folding>
                 <element signature="e#2587#2593#0" expanded="true" />
                 <element signature="e#2593#2599#0" expanded="true" />
@@ -54,30 +55,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bobo.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="bobo.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bobo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2196">
-              <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-              <folding>
-                <element signature="e#2564#2570#0" expanded="true" />
-                <element signature="e#2570#2576#0" expanded="true" />
-                <element signature="e#2576#2582#0" expanded="true" />
-                <element signature="e#2582#2588#0" expanded="true" />
-                <element signature="e#2588#2594#0" expanded="true" />
-                <element signature="e#2594#2600#0" expanded="true" />
-                <element signature="e#2600#2606#0" expanded="true" />
-                <element signature="e#2606#2612#0" expanded="true" />
-                <element signature="e#2612#2618#0" expanded="true" />
-                <element signature="e#2618#2624#0" expanded="true" />
-                <element signature="e#2624#2630#0" expanded="true" />
-                <element signature="e#2630#2636#0" expanded="true" />
-                <element signature="e#2636#2642#0" expanded="true" />
-                <element signature="e#2642#2648#0" expanded="true" />
-                <element signature="e#2648#2654#0" expanded="true" />
-                <element signature="e#2654#2660#0" expanded="true" />
-                <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="454">
+              <caret line="120" column="130" selection-start-line="120" selection-start-column="130" selection-end-line="120" selection-end-column="130" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -90,8 +73,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bobo.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/bobo.html" />
       </list>
     </option>
   </component>
@@ -131,6 +114,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -149,24 +134,8 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BoboAdvse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BoboAdvse" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -248,12 +217,13 @@
       <workItem from="1491201943213" duration="1577000" />
       <workItem from="1491226499579" duration="1193000" />
       <workItem from="1491301714591" duration="666000" />
-      <workItem from="1491304386652" duration="66000" />
+      <workItem from="1491304386652" duration="190000" />
+      <workItem from="1491305069965" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5499000" />
+    <option name="totallyTimeSpent" value="5642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1225" height="777" extended-state="6" />
@@ -323,25 +293,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2196">
           <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-          <folding>
-            <element signature="e#2564#2570#0" expanded="true" />
-            <element signature="e#2570#2576#0" expanded="true" />
-            <element signature="e#2576#2582#0" expanded="true" />
-            <element signature="e#2582#2588#0" expanded="true" />
-            <element signature="e#2588#2594#0" expanded="true" />
-            <element signature="e#2594#2600#0" expanded="true" />
-            <element signature="e#2600#2606#0" expanded="true" />
-            <element signature="e#2606#2612#0" expanded="true" />
-            <element signature="e#2612#2618#0" expanded="true" />
-            <element signature="e#2618#2624#0" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
-            <element signature="e#2630#2636#0" expanded="true" />
-            <element signature="e#2636#2642#0" expanded="true" />
-            <element signature="e#2642#2648#0" expanded="true" />
-            <element signature="e#2648#2654#0" expanded="true" />
-            <element signature="e#2654#2660#0" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -375,25 +327,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2196">
           <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-          <folding>
-            <element signature="e#2564#2570#0" expanded="true" />
-            <element signature="e#2570#2576#0" expanded="true" />
-            <element signature="e#2576#2582#0" expanded="true" />
-            <element signature="e#2582#2588#0" expanded="true" />
-            <element signature="e#2588#2594#0" expanded="true" />
-            <element signature="e#2594#2600#0" expanded="true" />
-            <element signature="e#2600#2606#0" expanded="true" />
-            <element signature="e#2606#2612#0" expanded="true" />
-            <element signature="e#2612#2618#0" expanded="true" />
-            <element signature="e#2618#2624#0" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
-            <element signature="e#2630#2636#0" expanded="true" />
-            <element signature="e#2636#2642#0" expanded="true" />
-            <element signature="e#2642#2648#0" expanded="true" />
-            <element signature="e#2648#2654#0" expanded="true" />
-            <element signature="e#2654#2660#0" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -427,25 +361,41 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2196">
           <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#2564#2570#0" expanded="true" />
-            <element signature="e#2570#2576#0" expanded="true" />
-            <element signature="e#2576#2582#0" expanded="true" />
-            <element signature="e#2582#2588#0" expanded="true" />
-            <element signature="e#2588#2594#0" expanded="true" />
-            <element signature="e#2594#2600#0" expanded="true" />
-            <element signature="e#2600#2606#0" expanded="true" />
-            <element signature="e#2606#2612#0" expanded="true" />
-            <element signature="e#2612#2618#0" expanded="true" />
-            <element signature="e#2618#2624#0" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
-            <element signature="e#2630#2636#0" expanded="true" />
-            <element signature="e#2636#2642#0" expanded="true" />
-            <element signature="e#2642#2648#0" expanded="true" />
-            <element signature="e#2648#2654#0" expanded="true" />
-            <element signature="e#2654#2660#0" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#2587#2593#0" expanded="true" />
+            <element signature="e#2593#2599#0" expanded="true" />
+            <element signature="e#2599#2605#0" expanded="true" />
+            <element signature="e#2605#2611#0" expanded="true" />
+            <element signature="e#2611#2617#0" expanded="true" />
+            <element signature="e#2623#2629#0" expanded="true" />
+            <element signature="e#2629#2635#0" expanded="true" />
+            <element signature="e#2635#2641#0" expanded="true" />
+            <element signature="e#2647#2653#0" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#ul#0;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#ul#1;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#ul#2;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#ul#3;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#div#0;n#ul#4;n#div#5;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bobo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2196">
+          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -479,25 +429,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#2564#2570#0" expanded="true" />
-            <element signature="e#2570#2576#0" expanded="true" />
-            <element signature="e#2576#2582#0" expanded="true" />
-            <element signature="e#2582#2588#0" expanded="true" />
-            <element signature="e#2588#2594#0" expanded="true" />
-            <element signature="e#2594#2600#0" expanded="true" />
-            <element signature="e#2600#2606#0" expanded="true" />
-            <element signature="e#2606#2612#0" expanded="true" />
-            <element signature="e#2612#2618#0" expanded="true" />
-            <element signature="e#2618#2624#0" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
-            <element signature="e#2630#2636#0" expanded="true" />
-            <element signature="e#2636#2642#0" expanded="true" />
-            <element signature="e#2642#2648#0" expanded="true" />
-            <element signature="e#2648#2654#0" expanded="true" />
-            <element signature="e#2654#2660#0" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -518,8 +450,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="133" column="15" selection-start-line="133" selection-start-column="15" selection-end-line="133" selection-end-column="15" />
+        <state relative-caret-position="220">
+          <caret line="126" column="48" selection-start-line="126" selection-start-column="48" selection-end-line="126" selection-end-column="48" />
           <folding>
             <element signature="e#2587#2593#0" expanded="true" />
             <element signature="e#2593#2599#0" expanded="true" />
@@ -544,27 +476,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bobo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2196">
-          <caret line="122" column="11" selection-start-line="122" selection-start-column="11" selection-end-line="122" selection-end-column="11" />
-          <folding>
-            <element signature="e#2564#2570#0" expanded="true" />
-            <element signature="e#2570#2576#0" expanded="true" />
-            <element signature="e#2576#2582#0" expanded="true" />
-            <element signature="e#2582#2588#0" expanded="true" />
-            <element signature="e#2588#2594#0" expanded="true" />
-            <element signature="e#2594#2600#0" expanded="true" />
-            <element signature="e#2600#2606#0" expanded="true" />
-            <element signature="e#2606#2612#0" expanded="true" />
-            <element signature="e#2612#2618#0" expanded="true" />
-            <element signature="e#2618#2624#0" expanded="true" />
-            <element signature="e#2624#2630#0" expanded="true" />
-            <element signature="e#2630#2636#0" expanded="true" />
-            <element signature="e#2636#2642#0" expanded="true" />
-            <element signature="e#2642#2648#0" expanded="true" />
-            <element signature="e#2648#2654#0" expanded="true" />
-            <element signature="e#2654#2660#0" expanded="true" />
-            <element signature="n#style#0;n#div#2;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="454">
+          <caret line="120" column="130" selection-start-line="120" selection-start-column="130" selection-end-line="120" selection-end-column="130" />
+          <folding />
         </state>
       </provider>
     </entry>
